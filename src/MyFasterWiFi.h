@@ -11,7 +11,7 @@ class MyFasterWiFi {
   private:
     char* _ssid;
     char* _password;
-}
+};
 
 
 #endif
